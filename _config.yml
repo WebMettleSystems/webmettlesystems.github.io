@@ -36,6 +36,8 @@ instagram_username: WebMettle
 youtube_channelid: UC7FPaKwEDCly3P1A3pJOeug
 youtube_channelname: WebMettle
 
+google_analytics: G-VHZZ215C94
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
